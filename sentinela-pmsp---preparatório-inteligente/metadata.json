@@ -1,0 +1,8 @@
+{
+  "name": "Sentinela PMSP - Preparatório Inteligente",
+  "description": "Uma plataforma completa de estudos para o concurso da Polícia Militar de São Paulo, com simulados, trilhas de aprendizagem e tutor de IA especializado no edital.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

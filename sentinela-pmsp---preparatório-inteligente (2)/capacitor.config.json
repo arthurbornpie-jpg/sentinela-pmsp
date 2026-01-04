@@ -1,0 +1,15 @@
+
+{
+  "appId": "com.sentinelapmsp.app",
+  "appName": "Sentinela PMSP",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "releaseType": "APK"
+    }
+  }
+}
